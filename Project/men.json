@@ -1,0 +1,114 @@
+[
+    { 
+    "casual":[
+     {
+         "image": "images/men/casual1.jpeg",
+         "description": "white tutle neck",
+         "id": 200,
+         "amount": 4,
+         "price":180
+     },
+     {
+         "image": "images/men/casual2.jpeg",
+         "description": "winter coat",
+         "id": 201,
+         "amount": 10,
+         "price":90
+     },
+     {
+         "image": "images/men/casual3.jpeg",
+         "description": "blue sweater",
+         "id": 202,
+         "amount": 50,
+         "price":200
+     },
+     {
+         "image": "images/men/casual4.jpeg",
+         "description": "brown sweater",
+         "id": 203,
+         "amount": 35,
+         "price":130
+     },
+     {
+         "image": "images/men/casual5.jpeg",
+         "description": "green sweater",
+         "id": 204,
+         "amount": 1,
+         "price":150
+     }]},
+     {
+     "formal": [
+     {
+         "image": "images/men/formal1.jpeg",
+         "description": "blue suit",
+         "id": 205,
+         "amount": 6,
+         "price":70
+     },
+     {
+         "image": "images/men/formal2.jpeg",
+         "description": "black suit",
+         "id": 206,
+         "amount": 20,
+         "price":50
+     },
+     {
+         "image": "images/men/formal3.jpeg",
+         "description": "green suit",
+         "id": 207,
+         "amount": 16,
+         "price":45
+     },
+     {
+         "image": "images/men/formal4.jpeg",
+         "description": "beige suit",
+         "id": 208,
+         "amount": 21,
+         "price":90
+     },
+     {
+         "image": "images/men/formal5.jpeg",
+         "description": "gray suit",
+         "id": 209,
+         "amount": 1,
+         "price":55
+     }]},
+     {
+     "accessories":[
+     {
+         "image": "images/men/accessory1.jpeg",
+         "description": "wallet",
+         "id": 210,
+         "amount": 35,
+         "price":25
+     },
+     {
+         "image": "images/men/accessory2.jpeg",
+         "description": "sunglasses",
+         "id": 211,
+         "amount": 55,
+         "price":20
+     },
+     {
+         "image": "images/men/accessory3.jpeg",
+         "description": "bag",
+         "id": 212,
+         "amount": 1,
+         "price":50
+     },
+     {
+         "image": "images/men/accessory4.jpeg",
+         "description": "cap",
+         "id": 213,
+         "amount": 15,
+         "price":35
+     },
+     {
+         "image": "images/men/accessory5.jpeg",
+         "description": "wristwatch",
+         "id": 214,
+         "amount": 26,
+         "price":30
+     }]}
+ ]
+ 

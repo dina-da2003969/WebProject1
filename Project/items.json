@@ -1,0 +1,344 @@
+[
+    {
+    "women": [
+        { 
+            "dresses":[
+             {
+                 "image": "images/women/dress4.jpeg",
+                 "description": "burgundy dress",
+                 "id": 100,
+                 "amount": 4,
+                 "price":180
+             },
+             {
+                 "image": "images/women/dress1.jpeg",
+                 "description": "purple dress",
+                 "id": 101,
+                 "amount": 10,
+                 "price":90
+             },
+             {
+                 "image": "images/women/dress5.jpeg",
+                 "description": "brown dress",
+                 "id": 102,
+                 "amount": 50,
+                 "price":200
+             },
+             {
+                 "image": "images/women/dress2.jpeg",
+                 "description": "blue dress",
+                 "id": 103,
+                 "amount": 35,
+                 "price":130
+             },
+             {
+                 "image": "images/women/dress3.jpeg",
+                 "description": "brown dress",
+                 "id": 104,
+                 "amount": 1,
+                 "price":150
+             }]},
+             {
+             "skirts": [
+             {
+                 "image": "images/women/skirt1.jpeg",
+                 "description": "beige skirt",
+                 "id": 105,
+                 "amount": 6,
+                 "price":70
+             },
+             {
+                 "image": "images/women/skirt2.jpeg",
+                 "description": "black skirt",
+                 "id": 106,
+                 "amount": 20,
+                 "price":50
+             },
+             {
+                 "image": "images/women/skirt3.jpeg",
+                 "description": "A-line black skirt",
+                 "id": 107,
+                 "amount": 16,
+                 "price":45
+             },
+             {
+                 "image": "images/women/skirt4.jpeg",
+                 "description": "white skirt",
+                 "id": 108,
+                 "amount": 21,
+                 "price":90
+             },
+             {
+                 "image": "images/women/skirt5.jpeg",
+                 "description": "brown skirt",
+                 "id": 109,
+                 "amount": 1,
+                 "price":55
+             }]},
+             {
+             "accessories":[
+             {
+                 "image": "images/women/accessory1.jpeg",
+                 "description": "bag",
+                 "id": 110,
+                 "amount": 35,
+                 "price":25
+             },
+             {
+                 "image": "images/women/accessory2.jpeg",
+                 "description": "sunglasses",
+                 "id": 111,
+                 "amount": 55,
+                 "price":20
+             },
+             {
+                 "image": "images/women/accessory3.jpeg",
+                 "description": "claw clip",
+                 "id": 112,
+                 "amount": 1,
+                 "price":50
+             },
+             {
+                 "image": "images/women/accessory4.jpeg",
+                 "description": "earrings",
+                 "id": 113,
+                 "amount": 15,
+                 "price":35
+             },
+             {
+                 "image": "images/women/accessory5.jpeg",
+                 "description": "wristwatch",
+                 "id": 114,
+                 "amount": 26,
+                 "price":30
+             }]}
+    ]},
+    {
+    "men": [
+        { 
+            "casual":[
+             {
+                 "image": "images/men/casual1.jpeg",
+                 "description": "white tutle neck",
+                 "id": 200,
+                 "amount": 4,
+                 "price":180
+             },
+             {
+                 "image": "images/men/casual2.jpeg",
+                 "description": "winter coat",
+                 "id": 201,
+                 "amount": 10,
+                 "price":90
+             },
+             {
+                 "image": "images/men/casual3.jpeg",
+                 "description": "blue sweater",
+                 "id": 202,
+                 "amount": 50,
+                 "price":200
+             },
+             {
+                 "image": "images/men/casual4.jpeg",
+                 "description": "brown sweater",
+                 "id": 203,
+                 "amount": 35,
+                 "price":130
+             },
+             {
+                 "image": "images/men/casual5.jpeg",
+                 "description": "green sweater",
+                 "id": 204,
+                 "amount": 1,
+                 "price":150
+             }]},
+             {
+             "formal": [
+             {
+                 "image": "images/men/formal1.jpeg",
+                 "description": "blue suit",
+                 "id": 205,
+                 "amount": 6,
+                 "price":70
+             },
+             {
+                 "image": "images/men/formal2.jpeg",
+                 "description": "black suit",
+                 "id": 206,
+                 "amount": 20,
+                 "price":50
+             },
+             {
+                 "image": "images/men/formal3.jpeg",
+                 "description": "green suit",
+                 "id": 207,
+                 "amount": 16,
+                 "price":45
+             },
+             {
+                 "image": "images/men/formal4.jpeg",
+                 "description": "beige suit",
+                 "id": 208,
+                 "amount": 21,
+                 "price":90
+             },
+             {
+                 "image": "images/men/formal5.jpeg",
+                 "description": "gray suit",
+                 "id": 209,
+                 "amount": 1,
+                 "price":55
+             }]},
+             {
+             "accessories":[
+             {
+                 "image": "images/men/accessory1.jpeg",
+                 "description": "wallet",
+                 "id": 210,
+                 "amount": 35,
+                 "price":25
+             },
+             {
+                 "image": "images/men/accessory2.jpeg",
+                 "description": "sunglasses",
+                 "id": 211,
+                 "amount": 55,
+                 "price":20
+             },
+             {
+                 "image": "images/men/accessory3.jpeg",
+                 "description": "bag",
+                 "id": 212,
+                 "amount": 1,
+                 "price":50
+             },
+             {
+                 "image": "images/men/accessory4.jpeg",
+                 "description": "cap",
+                 "id": 213,
+                 "amount": 15,
+                 "price":35
+             },
+             {
+                 "image": "images/men/accessory5.jpeg",
+                 "description": "wristwatch",
+                 "id": 214,
+                 "amount": 26,
+                 "price":30
+             }]}
+    ]},
+    {
+    "kids": [
+        { 
+            "nightwear":[
+             {
+                 "image": "images/kids/nightwear1.jpeg",
+                 "description": "blue winter pajama set",
+                 "id": 300,
+                 "amount": 4,
+                 "price":250
+             },
+             {
+                 "image": "images/kids/nightwear2.jpeg",
+                 "description": "black cloudy pajama",
+                 "id": 301,
+                 "amount": 10,
+                 "price":90
+             },
+             {
+                 "image": "images/kids/nightwear3.jpeg",
+                 "description": "white night dress",
+                 "id": 302,
+                 "amount": 50,
+                 "price":180
+             },
+             {
+                 "image": "images/kids/nightwear4.jpeg",
+                 "description": "striped green pajama",
+                 "id": 303,
+                 "amount": 35,
+                 "price":130
+             },
+             {
+                 "image": "images/kids/nightwear5.jpeg",
+                 "description": "pink pajama",
+                 "id": 304,
+                 "amount": 1,
+                 "price":150
+             }]},
+             {
+             "school": [
+             {
+                 "image": "images/kids/school1.jpeg",
+                 "description": "pink sharpaner",
+                 "id": 305,
+                 "amount": 6,
+                 "price":20
+             },
+             {
+                 "image": "images/kids/school2.jpeg",
+                 "description": "hello kitty pencil case",
+                 "id": 306,
+                 "amount": 20,
+                 "price":30
+             },
+             {
+                 "image": "images/kids/school3.jpeg",
+                 "description": "set of pencils",
+                 "id": 307,
+                 "amount": 16,
+                 "price":15
+             },
+             {
+                 "image": "images/kids/school4.jpeg",
+                 "description": "cat shaped water bottle",
+                 "id": 308,
+                 "amount": 21,
+                 "price":30
+             },
+             {
+                 "image": "images/kids/school5.jpeg",
+                 "description": "pink backpack",
+                 "id": 309,
+                 "amount": 1,
+                 "price":55
+             }]},
+             {
+             "accessories":[
+             {
+                 "image": "images/kids/accessory1.jpeg",
+                 "description": "cat hat",
+                 "id": 310,
+                 "amount": 35,
+                 "price":25
+             },
+             {
+                 "image": "images/kids/accessory2.jpeg",
+                 "description": "unicorn handbag",
+                 "id": 311,
+                 "amount": 55,
+                 "price":35
+             },
+             {
+                 "image": "images/kids/accessory3.jpeg",
+                 "description": "cat hairband",
+                 "id": 312,
+                 "amount": 1,
+                 "price":20
+             },
+             {
+                 "image": "images/kids/accessory4.jpeg",
+                 "description": "cat rings collection",
+                 "id": 313,
+                 "amount": 15,
+                 "price":25
+             },
+             {
+                 "image": "images/kids/accessory5.jpeg",
+                 "description": "set of hair clips",
+                 "id": 314,
+                 "amount": 26,
+                 "price":10
+             }]}
+    ]}
+]

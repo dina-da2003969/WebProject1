@@ -1,0 +1,114 @@
+[
+    { 
+    "nightwear":[
+     {
+         "image": "images/kids/nightwear1.jpeg",
+         "description": "blue winter pajama set",
+         "id": 300,
+         "amount": 4,
+         "price":250
+     },
+     {
+         "image": "images/kids/nightwear2.jpeg",
+         "description": "black cloudy pajama",
+         "id": 301,
+         "amount": 10,
+         "price":90
+     },
+     {
+         "image": "images/kids/nightwear3.jpeg",
+         "description": "white night dress",
+         "id": 302,
+         "amount": 50,
+         "price":180
+     },
+     {
+         "image": "images/kids/nightwear4.jpeg",
+         "description": "striped green pajama",
+         "id": 303,
+         "amount": 35,
+         "price":130
+     },
+     {
+         "image": "images/kids/nightwear5.jpeg",
+         "description": "pink pajama",
+         "id": 304,
+         "amount": 1,
+         "price":150
+     }]},
+     {
+     "school": [
+     {
+         "image": "images/kids/school1.jpeg",
+         "description": "pink sharpaner",
+         "id": 305,
+         "amount": 6,
+         "price":20
+     },
+     {
+         "image": "images/kids/school2.jpeg",
+         "description": "hello kitty pencil case",
+         "id": 306,
+         "amount": 20,
+         "price":30
+     },
+     {
+         "image": "images/kids/school3.jpeg",
+         "description": "set of pencils",
+         "id": 307,
+         "amount": 16,
+         "price":15
+     },
+     {
+         "image": "images/kids/school4.jpeg",
+         "description": "cat shaped water bottle",
+         "id": 308,
+         "amount": 21,
+         "price":30
+     },
+     {
+         "image": "images/kids/school5.jpeg",
+         "description": "pink backpack",
+         "id": 309,
+         "amount": 1,
+         "price":55
+     }]},
+     {
+     "accessories":[
+     {
+         "image": "images/kids/accessory1.jpeg",
+         "description": "cat hat",
+         "id": 310,
+         "amount": 35,
+         "price":25
+     },
+     {
+         "image": "images/kids/accessory2.jpeg",
+         "description": "unicorn handbag",
+         "id": 311,
+         "amount": 55,
+         "price":35
+     },
+     {
+         "image": "images/kids/accessory3.jpeg",
+         "description": "cat hairband",
+         "id": 312,
+         "amount": 1,
+         "price":20
+     },
+     {
+         "image": "images/kids/accessory4.jpeg",
+         "description": "cat rings collection",
+         "id": 313,
+         "amount": 15,
+         "price":25
+     },
+     {
+         "image": "images/kids/accessory5.jpeg",
+         "description": "set of hair clips",
+         "id": 314,
+         "amount": 26,
+         "price":10
+     }]}
+ ]
+ 

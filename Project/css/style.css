@@ -1,0 +1,286 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 160;
+}
+
+
+
+.container {
+    padding: 10px;
+    display: grid;
+    grid-template-rows: auto 5fr auto;
+
+    .header{
+        
+        background-image: url(../images/background.jpeg);
+        color: rgba(72, 22, 22, 0.692);
+        background-size: cover;
+        padding: 4rem;
+    
+        h1, p{
+            text-align: center;
+        }
+    }
+
+    .navigation {
+        div{
+            display: flex;
+            justify-content: space-evenly;
+            gap: 3px;
+            margin: 2px;
+
+            .search{
+                width: 100%;
+                height: 30px;
+                background-color: aliceblue;
+                border-color:  rgba(88, 52, 18, 0.692);
+                color: black;
+            }
+            button{
+                width: 50px;
+                background-color: rgba(88, 52, 18, 0.692);
+            color: white;
+            border-color:  rgba(58, 34, 11, 0.692);
+            a{
+                text-decoration: none;
+                color: white;
+            }
+
+            }
+        }
+        input{
+            background-color: rgba(88, 52, 18, 0.692);
+            color: white;
+        }
+        ul{
+            background-color: rgb(112, 94, 70);
+            display: flex;
+            flex-direction: column;
+            border-right: 2px;
+            border-left: 2px;
+            border-color: aliceblue;
+            align-items: stretch;
+            li:hover{
+            background-color: rgba(88, 52, 18, 0.692);
+            }
+        }  
+     
+        li{
+            padding: 1rem;
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            
+            a{
+                text-decoration: none;
+                color: white;
+            }
+        }
+    }
+
+    .home{
+        div{
+            color: rgba(122, 45, 45, 0.978);
+        }
+        #women{
+            background-image: url(../images/white.avif);
+        }
+        #men{
+            background-image: url(../images/brown.jpeg);
+        }
+        #kids{
+            background-image: url(../images/white.avif);
+        }
+    }
+
+    .women 
+    {
+        color: rgba(122, 45, 45, 0.978);
+        display: grid;
+        grid-template-columns: repeat(auto-fit,minmax(400px,1fr));
+        div{
+            display: grid;
+            grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+        }
+        h1{
+            width: 100%;
+            margin: 0;
+            padding: 0;
+            
+        }
+        .card {
+   
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            margin: 1rem;
+            
+            display: flex;
+            flex-direction: column;
+    
+            
+        img {
+            width: 250px;
+            height: 300px;
+            flex: 1;
+        }
+
+        h5 {
+            width: 100%;
+            text-align: justify;
+            margin: 10px;
+        }
+        }
+       
+        
+        }
+        .kids{
+            color: rgba(122, 45, 45, 0.978);
+            display: grid;
+            grid-template-columns: repeat(auto-fit,minmax(400px,1fr));
+            div{
+                display: grid;
+                grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+            }
+            h1{
+                width: 100%;
+                margin: 0;
+                padding: 0;
+                
+            }
+            .card {
+       
+                border-radius: 8px;
+                overflow: hidden;
+                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+                margin: 1rem;
+                
+                display: flex;
+                flex-direction: column;
+        
+                
+            img {
+                width: 250px;
+                height: 300px;
+                flex: 1;
+            }
+    
+            h5 {
+                width: 100%;
+                text-align: justify;
+                margin: 10px;
+            }
+            }
+           
+            
+            }.cart{
+    color: rgba(122, 45, 45, 0.978);
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(400px,1fr));
+    
+    h1{
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        
+    }
+    .card {
+
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        margin: 1rem;
+       
+        
+        display: flex;
+        flex-direction: column;
+
+        
+    img {
+        width: 250px;
+        height: 300px;
+        flex: 1;
+    }
+
+    h5 {
+        width: 100%;
+        text-align: justify;
+        margin: 10px;
+    }
+
+   }
+    
+    }
+}
+
+.men{
+    color: rgba(122, 45, 45, 0.978);
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(400px,1fr));
+    div{
+        display: grid;
+        grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+    }
+    h1{
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        
+    }
+    .card {
+
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        margin: 1rem;
+       
+        
+        display: flex;
+        flex-direction: column;
+
+        
+    img {
+        width: 250px;
+        height: 300px;
+
+        
+        flex: 1;
+    }
+
+    h5 {
+        width: 100%;
+        text-align: justify;
+        margin: 10px;
+    }
+    }
+}
+    
+
+.form {
+    background: #dfe8ec;
+    width: 400px;
+    margin: auto;
+    position: relative;
+    height: fit-content;
+    padding: 10px;
+}
+.title {
+    background-color:  rgba(88, 52, 18, 0.692);
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    color: white;
+    padding: 10px;
+}
+
+/* handle different screen sizes */
+@media screen and (min-width: 700px) {
+
+    .container{
+        .navigation ul{
+            flex-direction: row;
+        }
+    }
+}
